@@ -1,6 +1,6 @@
 # 机器学习 100 天
 
-英文原版请移步[Avik-Jain](https://github.com/Avik-Jain/100-Days-Of-ML-Code)。数据在[这里](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/tree/master/datasets)。
+英文原版请移步[Avik-Jain](https://github.com/Avik-Jain/100-Days-Of-ML-Code)。数据在[这里](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/tree/main/datasets)。
 
 翻译前请先阅读[规范](Translation%20specification.MD)。常见问题解答见[FAQ](FAQ.MD)。
 
@@ -21,32 +21,32 @@
 
 ## 数据预处理 | 第 1 天
 
-[数据预处理实现](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Code/Day%201_Data_Preprocessing.md)
+[数据预处理实现](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Code/Day%201_Data_Preprocessing.md)
 
 <p align="center">
-  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Info-graphs/Day%201.jpg">
+  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Info-graphs/Day%201.jpg">
 </p>
 
 ## 简单线性回归 | 第 2 天
 
-[简单线性回归实现](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Code/Day%202_Simple_Linear_Regression.md)
+[简单线性回归实现](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Code/Day%202_Simple_Linear_Regression.md)
 
 <p align="center">
-  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Info-graphs/Day%202.jpg">
+  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Info-graphs/Day%202.jpg">
 </p>
 
 ## 多元线性回归 | 第 3 天
 
-[多元线性回归实现](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Code/Day%203_Multiple_Linear_Regression.md)
+[多元线性回归实现](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Code/Day%203_Multiple_Linear_Regression.md)
 
 <p align="center">
-  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Info-graphs/Day%203.png">
+  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Info-graphs/Day%203.png">
 </p>
 
 ## 逻辑回归 | 第 4 天
 
 <p align="center">
-  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Info-graphs/Day%204.jpg">
+  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Info-graphs/Day%204.jpg">
 </p>
 
 ## 逻辑回归 | 第 5 天
@@ -56,12 +56,12 @@
 
 ## 逻辑回归 | 第 6 天
 
-[逻辑回归实现](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Code/Day%206_Logistic_Regression.md)
+[逻辑回归实现](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Code/Day%206_Logistic_Regression.md)
 
 ## K 近邻法(k-NN) | 第 7 天
 
 <p align="center">
-  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Info-graphs/Day%207.jpg">
+  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Info-graphs/Day%207.jpg">
 </p>
 
 ## 逻辑回归背后的数学 | 第 8 天
@@ -80,21 +80,21 @@
 
 ## K 近邻法(k-NN) | 第 11 天
 
-[K 近邻法(k-NN)实现](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Code/Day%2011_K-NN.md)
+[K 近邻法(k-NN)实现](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Code/Day%2011_K-NN.md)
 
 ## 支持向量机(SVM) | 第 12 天
 
 <p align="center">
-  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Info-graphs/Day%2012.jpg">
+  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Info-graphs/Day%2012.jpg">
 </p>
 
 ## 支持向量机(SVM) | 第 13 天
 
-[SVM 实现](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Code/Day%2013_SVM.md)
+[SVM 实现](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Code/Day%2013_SVM.md)
 
 ## 支持向量机(SVM)的实现 | 第 14 天
 
-今天我在线性相关数据上实现了 SVM。使用 Scikit-Learn 库。在 scikit-learn 中我们有 SVC 分类器，我们用它来完成这个任务。将在下一次实现时使用 kernel-trick。Python 代码见[此处](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Code/Day%2013_SVM.py),Jupyter notebook 见[此处](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Code/Day%2013_SVM.ipynb)。
+今天我在线性相关数据上实现了 SVM。使用 Scikit-Learn 库。在 scikit-learn 中我们有 SVC 分类器，我们用它来完成这个任务。将在下一次实现时使用 kernel-trick。Python 代码见[此处](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Code/Day%2013_SVM.py),Jupyter notebook 见[此处](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Code/Day%2013_SVM.ipynb)。
 
 ## 朴素贝叶斯分类器(Naive Bayes Classifier)和黑盒机器学习(Black Box Machine Learning) | 第 15 天
 
@@ -131,7 +131,7 @@
 ## 决策树 | 第 23 天
 
 <p align="center">
-  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Info-graphs/Day%2023%20-%20Chinese.jpg">
+  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Info-graphs/Day%2023%20-%20Chinese.jpg">
 </p>
 
 ## 统计学习理论的介绍 | 第 24 天
@@ -140,7 +140,7 @@ Bloomberg ML 课程的第 3 课介绍了一些核心概念，如输入空间，�
 
 ## 决策树 | 第 25 天
 
-[决策树实现](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Code/Day%2025_Decision_Tree.md)
+[决策树实现](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Code/Day%2025_Decision_Tree.md)
 
 ## 跳到复习线性代数 | 第 26 天
 
@@ -187,12 +187,12 @@ B 站播放列表在[这里](https://space.bilibili.com/88461692/#/channel/detai
 ## 随机森林 | 第 33 天
 
 <p align="center">
-  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Info-graphs/Day%2033.png">
+  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Info-graphs/Day%2033.png">
 </p>
 
 ## 随机森林 | 第 34 天
 
-[随机森林实现](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Code/Day%2034_Random_Forests.md)
+[随机森林实现](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Code/Day%2034_Random_Forests.md)
 
 ## 什么是神经网络？ | 深度学习，第 1 章 | 第 35 天
 
@@ -221,29 +221,29 @@ B 站视频在[这里](https://space.bilibili.com/88461692/#/channel/detail?cid=
 ## 第 1 部分 | 深度学习基础 Python，TensorFlow 和 Keras | 第 39 天
 
 视频地址在[这里](https://www.youtube.com/watch?v=wQ8BIBpya2k&t=19s&index=2&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)。
-<br>中文文字版[notebook](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Code/Day%2039.ipynb)。
+<br>中文文字版[notebook](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Code/Day%2039.ipynb)。
 
 ## 第 2 部分 | 深度学习基础 Python，TensorFlow 和 Keras | 第 40 天
 
 视频地址在[这里](https://www.youtube.com/watch?v=wQ8BIBpya2k&t=19s&index=2&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)。
-<br>中文文字版[notebook](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Code/Day%2040.ipynb)。
+<br>中文文字版[notebook](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Code/Day%2040.ipynb)。
 
 ## 第 3 部分 | 深度学习基础 Python，TensorFlow 和 Keras | 第 41 天
 
 视频地址在[这里](https://www.youtube.com/watch?v=wQ8BIBpya2k&t=19s&index=2&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)。
-<br>中文文字版[notebook](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Code/Day%2041.ipynb)。
+<br>中文文字版[notebook](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Code/Day%2041.ipynb)。
 
 ## 第 4 部分 | 深度学习基础 Python，TensorFlow 和 Keras | 第 42 天
 
 视频地址在[这里](https://www.youtube.com/watch?v=wQ8BIBpya2k&t=19s&index=2&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)。
-<br>中文文字版[notebook](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Code/Day%2042.ipynb)。
+<br>中文文字版[notebook](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Code/Day%2042.ipynb)。
 
 ## K-均值聚类 | 第 43 天
 
 转到无监督学习，并研究了聚类。可在[作者网站](http://www.avikjain.me/)查询。发现一个奇妙的[动画](http://shabal.in/visuals/kmeans/6.html)有助于理解 K-均值聚类。
 
 <p align="center">
-  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Info-graphs/Day%2043.jpg">
+  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Info-graphs/Day%2043.jpg">
 </p>
 
 ## K-均值聚类 | 第 44 天
@@ -253,91 +253,91 @@ B 站视频在[这里](https://space.bilibili.com/88461692/#/channel/detail?cid=
 ## 深入研究 | NUMPY | 第 45 天
 
 得到 JK VanderPlas 写的书《Python 数据科学手册（Python Data Science HandBook）》，Jupyter notebooks 在[这里](https://github.com/jakevdp/PythonDataScienceHandbook)。
-<br>**[高清中文版 pdf](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Other%20Docs/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E6%89%8B%E5%86%8C.zip)**
+<br>**[高清中文版 pdf](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Other%20Docs/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E6%89%8B%E5%86%8C.zip)**
 <br>第 2 章：NumPy 介绍，包括数据类型、数组和数组计算。
 <br>代码如下：
-<br>[2 NumPy 入门](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.00-Introduction-to-NumPy.ipynb)
-<br>[2.1 理解 Python 中的数据类型](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.01-Understanding-Data-Types.ipynb)
-<br>[2.2 NumPy 数组基础](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.02-The-Basics-Of-NumPy-Arrays.ipynb)
-<br>[2.3 NumPy 数组的计算：通用函数](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.03-Computation-on-arrays-ufuncs.ipynb)
+<br>[2 NumPy 入门](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/02.00-Introduction-to-NumPy.ipynb)
+<br>[2.1 理解 Python 中的数据类型](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/02.01-Understanding-Data-Types.ipynb)
+<br>[2.2 NumPy 数组基础](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/02.02-The-Basics-Of-NumPy-Arrays.ipynb)
+<br>[2.3 NumPy 数组的计算：通用函数](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/02.03-Computation-on-arrays-ufuncs.ipynb)
 
 ## 深入研究 | NUMPY | 第 46 天
 
 第 2 章： 聚合, 比较运算符和广播。
 <br>代码如下：
-<br>[2.4 聚合：最小值、最大值和其他值](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.04-Computation-on-arrays-aggregates.ipynb)
-<br>[2.5 数组的计算：广播](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.05-Computation-on-arrays-broadcasting.ipynb)
-<br>[2.6 比较、掩码和布尔运算](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.06-Boolean-Arrays-and-Masks.ipynb)
+<br>[2.4 聚合：最小值、最大值和其他值](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/02.04-Computation-on-arrays-aggregates.ipynb)
+<br>[2.5 数组的计算：广播](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/02.05-Computation-on-arrays-broadcasting.ipynb)
+<br>[2.6 比较、掩码和布尔运算](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/02.06-Boolean-Arrays-and-Masks.ipynb)
 
 ## 深入研究 | NUMPY | 第 47 天
 
 第 2 章： 花哨的索引，数组排序，结构化数据。
 <br>代码如下：
-<br>[2.7 花哨的索引](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.07-Fancy-Indexing.ipynb)
-<br>[2.8 数组的排序](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.08-Sorting.ipynb)
-<br>[2.9 结构化数据：NumPy 的结构化数组](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.09-<br>Structured-Data-NumPy.ipynb)
+<br>[2.7 花哨的索引](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/02.07-Fancy-Indexing.ipynb)
+<br>[2.8 数组的排序](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/02.08-Sorting.ipynb)
+<br>[2.9 结构化数据：NumPy 的结构化数组](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/02.09-<br>Structured-Data-NumPy.ipynb)
 
 ## 深入研究 | PANDAS | 第 48 天
 
 第 3 章：Pandas 数据处理
 <br>包含 Pandas 对象，数据取值与选择，数值运算方法，处理缺失值，层级索引，合并数据集。
 <br>代码如下：
-<br>[3 Pandas 数据处理](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
-<br>[3.1 Pandas 对象简介](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.01-Introducing-Pandas-Objects.ipynb)
-<br>[3.2 数据取值与选择](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.02-Data-Indexing-and-Selection.ipynb)
-<br>[3.3 Pandas 数值运算方法](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.03-Operations-in-Pandas.ipynb)
-<br>[3.4 处理缺失值](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.04-Missing-Values.ipynb)
-<br>[3.5 层级索引](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.05-Hierarchical-Indexing.ipynb)
-<br>[3.6 合并数据集：ConCat 和 Append 方法](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.06-Concat-And-Append.ipynb)
+<br>[3 Pandas 数据处理](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/03.00-Introduction-to-Pandas.ipynb)
+<br>[3.1 Pandas 对象简介](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/03.01-Introducing-Pandas-Objects.ipynb)
+<br>[3.2 数据取值与选择](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/03.02-Data-Indexing-and-Selection.ipynb)
+<br>[3.3 Pandas 数值运算方法](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/03.03-Operations-in-Pandas.ipynb)
+<br>[3.4 处理缺失值](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/03.04-Missing-Values.ipynb)
+<br>[3.5 层级索引](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/03.05-Hierarchical-Indexing.ipynb)
+<br>[3.6 合并数据集：ConCat 和 Append 方法](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/03.06-Concat-And-Append.ipynb)
 
 ## 深入研究 | PANDAS | 第 49 天
 
 第 3 章：完成剩余内容-合并与连接，累计与分组，数据透视表。
 <br>代码如下：
-<br>[3.7 合并数据集：合并与连接](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.07-Merge-and-Join.ipynb)
-<br>[3.8 累计与分组](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.08-Aggregation-and-Grouping.ipynb)
-<br>[3.9 数据透视表](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.09-Pivot-Tables.ipynb)
+<br>[3.7 合并数据集：合并与连接](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/03.07-Merge-and-Join.ipynb)
+<br>[3.8 累计与分组](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/03.08-Aggregation-and-Grouping.ipynb)
+<br>[3.9 数据透视表](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/03.09-Pivot-Tables.ipynb)
 
 ## 深入研究 | PANDAS | 第 50 天
 
 第 3 章：向量化字符串操作，处理时间序列。
 <br>代码如下：
-<br>[3.10 向量化字符串操作](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.10-Working-With-Strings.ipynb)
-<br>[3.11 处理时间序列](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.11-Working-with-Time-Series.ipynb)
-<br>[3.12 高性能 Pandas：eval()与 query()](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.12-Performance-Eval-and-Query.ipynb)
+<br>[3.10 向量化字符串操作](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/03.10-Working-With-Strings.ipynb)
+<br>[3.11 处理时间序列](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/03.11-Working-with-Time-Series.ipynb)
+<br>[3.12 高性能 Pandas：eval()与 query()](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/03.12-Performance-Eval-and-Query.ipynb)
 
 ## 深入研究 | MATPLOTLIB | 第 51 天
 
 第 4 章：Matplotlib 数据可视化
 <br>学习简易线形图, 简易散点图，密度图与等高线图.
 <br>代码如下：
-<br>[4 Matplotlib 数据可视化](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.00-Introduction-To-Matplotlib.ipynb)
-<br>[4.1 简易线形图](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.01-Simple-Line-Plots.ipynb)
-<br>[4.2 简易散点图](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.02-Simple-Scatter-Plots.ipynb)
-<br>[4.3 可视化异常处理](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.03-Errorbars.ipynb)
-<br>[4.4 密度图与等高线图](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.04-Density-and-Contour-Plots.ipynb)
+<br>[4 Matplotlib 数据可视化](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/04.00-Introduction-To-Matplotlib.ipynb)
+<br>[4.1 简易线形图](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/04.01-Simple-Line-Plots.ipynb)
+<br>[4.2 简易散点图](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/04.02-Simple-Scatter-Plots.ipynb)
+<br>[4.3 可视化异常处理](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/04.03-Errorbars.ipynb)
+<br>[4.4 密度图与等高线图](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/04.04-Density-and-Contour-Plots.ipynb)
 
 ## 深入研究 | MATPLOTLIB | 第 52 天
 
 第 4 章：Matplotlib 数据可视化
 <br>学习直方图，配置图例，配置颜色条，多子图。
 <br>代码如下：
-<br>[4.5 直方图](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.05-Histograms-and-Binnings.ipynb)
-<br>[4.6 配置图例](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.06-Customizing-Legends.ipynb)
-<br>[4.7 配置颜色条](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.07-Customizing-Colorbars.ipynb)
-<br>[4.8 多子图](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.08-Multiple-Subplots.ipynb)
-<br>[4.9 文字与注释](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.09-Text-and-Annotation.ipynb)
+<br>[4.5 直方图](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/04.05-Histograms-and-Binnings.ipynb)
+<br>[4.6 配置图例](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/04.06-Customizing-Legends.ipynb)
+<br>[4.7 配置颜色条](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/04.07-Customizing-Colorbars.ipynb)
+<br>[4.8 多子图](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/04.08-Multiple-Subplots.ipynb)
+<br>[4.9 文字与注释](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/04.09-Text-and-Annotation.ipynb)
 
 ## 深入研究 | MATPLOTLIB | 第 53 天
 
 第 4 章：Matplotlib 数据可视化
 <br>学习三维绘图。
-<br>[4.12 画三维图](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.12-Three-Dimensional-Plotting.ipynb)
+<br>[4.12 画三维图](https://github.com/jakevdp/PythonDataScienceHandbook/blob/main/notebooks/04.12-Three-Dimensional-Plotting.ipynb)
 
 ## 层次聚类 | 第 54 天
 
-[动画演示](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Other%20Docs/%E5%B1%82%E6%AC%A1%E8%81%9A%E7%B1%BB.gif)
+[动画演示](https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Other%20Docs/%E5%B1%82%E6%AC%A1%E8%81%9A%E7%B1%BB.gif)
 
 <p align="center">
-  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/master/Info-graphs/Day%2054.jpg">
+  <img src="https://github.com/bdfd/Machine_Learning_Road_To_Hero_Python/blob/main/Info-graphs/Day%2054.jpg">
 </p>
